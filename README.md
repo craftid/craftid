@@ -38,13 +38,14 @@
 ![Next.js](https://img.shields.io/badge/-Next-000?&logo=next.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-000?&logo=nuxt.js)
 
+![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwindcss)
+
 #### Tools & Libraries
 
-![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwindcss)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Illustrator-000?&logo=adobephotoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-000?&logo=adobeillustrator)
 ![Canvas.js](https://img.shields.io/badge/-Chart.js-000?&logo=chart.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
